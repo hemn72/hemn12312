@@ -9,7 +9,7 @@ const { PREFIX } = require(`../config.json`);
 //////COMMAND BEGIN/////////
 ////////////////////////////
 module.exports = {
-  name: "volume",
+  name: "vol",
   aliases: ["v"],
   description: "(v)Change volume0/300",
   cooldown: 5,
