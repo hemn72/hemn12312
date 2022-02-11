@@ -24,7 +24,7 @@ help, ping, prefix, avatar
 ***  |   Music ***
 filter, loop, lyrics, np, play,
 queue, remove, shuffle, skip,
-skipto, stop, volume
+skipto, stop, vol
 ***Info***
 botinfo, serverinfo, userinfo,
 status, uptime
